@@ -24,4 +24,4 @@ def ordenacao_por_selecao(arr):
     return lista_ord
 
 lista = [3,4,5,2,321,13,12,20,1,0,2,4,3,7,5,139,-1]
-print(ordenacao_por_selecao()
+print(ordenacao_por_selecao(lista))
